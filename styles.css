@@ -1,0 +1,189 @@
+body{
+    background-image: url("http://fc08.deviantart.net/fs70/f/2009/363/e/1/Starry_Space_by_DVLIAC.jpg");
+}
+
+
+#bs-example-navbar-collapse-1 li{
+    background-color:black;
+    border-radius:5px;
+}
+
+#bs-example-navbar-collapse-1 li a{
+    color:yellow;
+    font-family:impact;
+    text-transform: uppercase;
+    font-size:45px;
+}
+
+
+#bs-example-navbar-collapse-1 li a:hover{
+    color:red;
+    font-size:40px;
+    border-radius:5px;
+}
+
+
+
+.navbar-collapse{
+    padding-left:3%;
+}
+
+.navbar-default{
+    background-color:black;
+}
+
+.navbar-header > .navbar-brand p{
+    color:white;
+    font-family:impact;
+    font-size:48px;
+}
+
+.page-header{
+    background-color:black;
+    opacity:.7;
+}
+
+.page-header h1{
+    color:white;
+    font-size:50px;
+    margin-left:30%;
+    margin-right:0%;
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    text-transform:uppercase;
+    width:100%;
+}
+
+.page-header h2{
+    color:yellow;
+    font-size:50px;
+    margin-left:50%;
+    margin-right:0%;
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    text-transform:uppercase;
+    width:100%;
+}
+
+.navbar-header > .navbar-brand p:hover{
+    color:gray;
+    font-family:impact;
+    font-size:46px;
+}
+
+.container-fluid{
+    background-color:black;
+    opacity:0.8;
+    margin-bottom:5px;
+    border-radius:5px;
+}
+
+.jumbotron{
+    background-image: url("https://www.aniplaza.net/files/attach/images/3956/389/084/b95710fccbb1d1b4295da1cdd4b8726a.jpg");
+    height:80%;
+    background-size:cover;
+    border-radius:10px;
+}
+
+.container-complete{
+    width:100%;
+}
+
+.container{
+    width:100%;
+}
+.picture-container{
+    width:85%;
+}
+
+#left-div{
+    width:100%;
+    background-color:white;
+    border-radius:10px;
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}
+
+#left-div h1{
+    font-size:20px;
+    text-align:center;
+    font-family:;
+}
+
+.embed-responsive{
+    width:100%;
+}
+
+#right-div{
+    background-color:black;
+    opacity:.8;
+    border-radius:10px;
+    padding-left:10px;
+    padding-right:10px;
+    width:100%;
+}
+
+#right-div img{
+    float:right;
+    width:70%;
+    margin-left:5px;
+    margin-bottom:5px;
+    border-radius:50px;
+}
+
+.visibility{
+    opacity:1;
+}
+
+.embed-responsive-item{
+    width:100%;
+}
+
+video{
+    border-radius:5px;
+    width:100%;
+}
+
+
+.bodyh1{
+    color:yellow;
+    font-size:50px;
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    text-transform:uppercase;
+    text-align:center;
+}
+
+.bodyh2{
+    
+}
+
+.bodyp{
+    font-size:24px;
+    font-family:arial;
+    color:white;
+}
+
+.col-lg-4 img{
+    width:100%;
+}
+
+.imgspacing{
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+.carousel{
+    box-shadow: 2px 2px 6px 6px white;
+    border-radius:5px;
+}
+
+
+
+.shadow{
+    box-shadow:2px 2px 2px 2px white;
+}
+
+.media-row{
+    background-color:white;
+    border-radius:10px;
+}
+
+
+
